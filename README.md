@@ -32,10 +32,10 @@ Follow these instructions to set up and run the project locally.
       - Total Per Person: Displays the amount each person owes.
 
 # Code Structure
-`MainActivity.kt`: Entry point of the app containing the scaffold and state management.
-`components/InputField.kt`: Reusable input field composable.
-`widgets/RoundIconButton.kt`: Customizable buttons for incrementing and decrementing values.
-`util/Utils.kt`: Contains helper functions like calculateTotalTip and calculateTotalPerPerson.
+- `MainActivity.kt`: Entry point of the app containing the scaffold and state management.
+- `components/InputField.kt`: Reusable input field composable.
+- `widgets/RoundIconButton.kt`: Customizable buttons for incrementing and decrementing values.
+- `util/Utils.kt`: Contains helper functions like calculateTotalTip and calculateTotalPerPerson.
 
 # Tech Stack
 - Language: Kotlin
