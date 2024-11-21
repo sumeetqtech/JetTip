@@ -7,6 +7,9 @@
 - Responsive Design: Real-time updates as inputs change, including split count or tip percentage.
 - Modern UI: Designed with Jetpack Compose for a smooth and engaging user experience.
 
+# Demo
+
+
 # Getting Started
 Follow these instructions to set up and run the project locally.
 
