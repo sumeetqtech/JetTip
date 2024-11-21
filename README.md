@@ -8,7 +8,8 @@
 - Modern UI: Designed with Jetpack Compose for a smooth and engaging user experience.
 
 # Demo
-
+![Screenshot_20241122_004423](https://github.com/user-attachments/assets/a86985dd-2707-4cab-acc4-990c6ca941a0)
+![Screenshot_20241122_004507](https://github.com/user-attachments/assets/ae46823e-941f-4edb-a8f2-cb4695816f74)
 
 # Getting Started
 Follow these instructions to set up and run the project locally.
