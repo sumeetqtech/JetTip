@@ -18,7 +18,7 @@ Follow these instructions to set up and run the project locally.
 
 # Installation
 1. Clone the repository:
-      `git clone https://github.com/yourusername/JetTipApp.git`
+      ```git clone https://github.com/yourusername/JetTipApp.git```
 2. Open the project in Android Studio.
 3. Sync Gradle to download dependencies.
 4. Build and run the app on an emulator or a connected Android device.
